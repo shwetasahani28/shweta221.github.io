@@ -1,0 +1,148 @@
+*{
+           margin: 0;
+          padding:0;
+        }
+       
+body {
+            background-color: black;
+            color: white;
+    }
+
+    .heading{
+        height: 60px;
+        color: yellow;
+        background-color: black;
+        text-align: center;
+        margin: 10px;
+    }
+
+    .abc{
+    height: 60px;
+    background-color: #848a87;
+    font-size: 20px;
+
+    }
+     .abc ul li {
+        display: inline;
+    }
+    li{
+        margin: 25px;
+    }
+
+    .secondh{
+    text-align: center;
+    font-weight: bold;
+    color: yellow;
+    margin: 20px;
+     }
+     .p1{
+        text-align: center;
+        margin: 20px;
+        padding: 20px;
+         font-size: 20px;
+     }
+
+    .p2{
+       text-align: center;
+       font-weight: bold;
+    font-size: 24px;
+          color: white;
+
+    }
+    h2{
+        text-align: center;
+    font-weight: bold;
+    color: yellow;
+    margin: 30px;
+    }
+    .p3{
+       text-align: center; 
+       font-size: 20px;
+       text-align: center;
+       margin: 22px;
+
+    }
+    .project{
+        
+        height: 1100px;
+        width: 900px;
+        background-color: #ffe40c;
+        border: solid red;
+        color: black;
+        margin: auto;
+      position: relvent;
+    }
+h3{
+    margin: 20px;
+
+}
+.p4{
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border: solid black;
+    margin: 10px;
+    position: relative;
+    right: -540px;
+
+
+}
+.p5{
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border: solid black;
+ margin: 10px;
+ position: relative;
+  left: 132px;
+
+}
+.p6{
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border: solid black;
+ margin: 10px;
+ position: relative;
+ right: -540px;
+
+}
+.p7{
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border: solid black;
+ margin: 10px;
+ position: relative;
+   left: 132px;
+}
+h4{
+    margin: 15px;
+}
+.foot{
+    display: flex;
+    
+    justify-content: center;
+}
+.f1{
+
+    margin: 30px;
+}
+
+.f2{
+    
+    margin: 30px;
+}
+.f3{
+    
+    margin: 30px;
+}
+h5{
+    margin: 20px;
+}
+h6{
+    margin: 20px;
+}
+.use{
+    display: flex;
+}
